@@ -42,4 +42,4 @@ as possible. The response should be a JSON array.
 - Install packages with: ```npm i```
 ```npm run dev``` to run the project
 
-- Project runnnig on port ```3000
+- Project runnnig on port ```3000```
