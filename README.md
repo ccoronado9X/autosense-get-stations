@@ -25,11 +25,19 @@ endpoint is called. The list of stations is a large JSON file (about 7MB) and th
 processing of the list and sending the response back to the client should block the event loop as little
 as possible. The response should be a JSON array.
 
-## Project set up
+## Project Setup
 
-### Use node 20 or higher
-### create an .env file on the route of the project referencing el s3 url: S3_URL
-### install packages with: npm i
-### npm run dev to run the project
+### Prerequisites
 
-### Project runnnig on port 3000
+- **Node.js**: Make sure you are using **Node.js v20** or higher.
+
+  To check your Node.js version, run:
+
+  ```bash
+  node -v
+
+Create an .env file on the route of the project referencing el s3 url: S3_URL
+Install packages with: ```npm i```
+```npm run dev``` to run the project
+
+### Project runnnig on port ```3000
