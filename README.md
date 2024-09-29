@@ -36,8 +36,10 @@ as possible. The response should be a JSON array.
   ```bash
   node -v
 
-Create an .env file on the route of the project referencing el s3 url: S3_URL
-Install packages with: ```npm i```
+### Start up
+
+- Create an .env file on the route of the project referencing el s3 url: ```S3_URL```
+- Install packages with: ```npm i```
 ```npm run dev``` to run the project
 
-### Project runnnig on port ```3000
+- Project runnnig on port ```3000
