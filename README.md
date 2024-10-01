@@ -38,8 +38,7 @@ as possible. The response should be a JSON array.
 
 ### Start up
 
-- Create an .env file on the route of the project referencing el s3 url: ```S3_URL```
+- Create an .env file on the route of the project referencing the s3 url: ```S3_URL```
 - Install packages with: ```npm i```
-```npm run dev``` to run the project
-
+- ```npm run dev``` to run the project
 - Project runnnig on port ```3000```
